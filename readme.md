@@ -1,7 +1,6 @@
 ## Notes
 
 01. [Introduction to natural language processing](notes/01_intro_notes.pdf)
-
 02. [Text normalization, units and edit distance](notes/02_units_distance_notes.pdf)
  
 
