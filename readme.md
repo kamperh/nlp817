@@ -14,7 +14,7 @@
 
 ## Acknowledgements
 
-With permission, I have used content from NLP courses taught by
+With permission, I have used content from the NLP courses taught by
 [Jan Buys](https://www.janmbuys.com/) (University of Cape Town) and
 [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/)
 (University of Edinburgh).
