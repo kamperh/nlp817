@@ -22,6 +22,6 @@ With permission, I have used content from NLP courses taught by
 
 ## License
 
-Herman Kamper, 2022.  
+Herman Kamper, 2022--2023.  
 This work is released under a Creative Commons Attribution-ShareAlike
 license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
