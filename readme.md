@@ -14,7 +14,7 @@
 
 ## Lecture videos
 
-10. [Encoder-decoder models, machine translation and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV):
+10. [Encoder-decoder models, machine translation and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV):  
 
     10.1 [NLP817 10.1: A basic encoder-decoder model for machine translation](https://youtu.be/gHk2IWivt_8&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
     10.2 [NLP817 10.2: Training and loss for encoder-decoder models](https://youtu.be/aBZUTuT1Izs&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
