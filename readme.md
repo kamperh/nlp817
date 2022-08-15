@@ -12,7 +12,7 @@
 10. [Encoder-decoder models and attention](notes/10_encdec_attention_notes.pdf)
 
 
-## Lecture videos
+## Videos
 
 10. [Encoder-decoder models and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV):  
 
