@@ -14,6 +14,10 @@
 
 ## Videos
 
+- [Text normalization, units and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
+
+    2. [Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
+
 - [10. Encoder-decoder models and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
 
     1. [A basic encoder-decoder model for machine translation](https://youtu.be/gHk2IWivt_8&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
