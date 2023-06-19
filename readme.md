@@ -16,19 +16,18 @@
 
 - [2. Text normalization, units and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
 
-    2.1. [Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
-    2.2. Test
+    - [Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
 
 - [10. Encoder-decoder models and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
 
-    1. [A basic encoder-decoder model for machine translation](https://youtu.be/gHk2IWivt_8&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    2. [Training and loss for encoder-decoder models](https://youtu.be/aBZUTuT1Izs&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    3. [Encoder-decoder models in general](https://youtu.be/N8AzPeAORKM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    4. [Greedy decoding](https://youtu.be/DW5C3eqAFQM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    5. [Beam search](https://youtu.be/uG3xoYNo3HM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    6. [Basic attention](https://youtu.be/BSSoEtv5jvQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    7. [Attention - More general](https://youtu.be/k-5QMalS8bQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
-    8. [Evaluating machine translation with BLEU](https://youtu.be/evDKNiNs09o&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [A basic encoder-decoder model for machine translation](https://youtu.be/gHk2IWivt_8&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Training and loss for encoder-decoder models](https://youtu.be/aBZUTuT1Izs&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Encoder-decoder models in general](https://youtu.be/N8AzPeAORKM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Greedy decoding](https://youtu.be/DW5C3eqAFQM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Beam search](https://youtu.be/uG3xoYNo3HM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Basic attention](https://youtu.be/BSSoEtv5jvQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Attention - More general](https://youtu.be/k-5QMalS8bQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+    - [Evaluating machine translation with BLEU](https://youtu.be/evDKNiNs09o&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
 
 
 
