@@ -1,7 +1,7 @@
 ## Lecture notes
 
 01. [Introduction to natural language processing](notes/01_intro_notes.pdf)
-02. [Text normalization, units, and edit distance](notes/02_units_distance_notes.pdf)
+02. [Text normalization, units and edit distance](notes/02_units_distance_notes.pdf)
 03. [Language modelling with N-grams](notes/03_lm_ngrams_notes.pdf)
 04. [Entropy and perplexity (advanced)](notes/04_entropy_perplexity_notes.pdf)
 05. [Hidden Markov models](notes/05_hmm_notes.pdf)
