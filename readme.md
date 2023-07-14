@@ -14,6 +14,8 @@
 
 ## Videos
 
+[1. Introduction to natural language processing](https://youtu.be/ZxG1YFrYuOU) (15 min)
+
 [2. Text normalization, units and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
 
 - [Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (20 min)
