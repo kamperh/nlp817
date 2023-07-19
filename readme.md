@@ -10,6 +10,7 @@
 08. [An introduction to neural networks](notes/08_nn_notes.pdf)
 09. [Recurrent neural networks](notes/09_rnn_notes.pdf)
 10. [Encoder-decoder models and attention](notes/10_encdec_attention_notes.pdf)
+11. [Self-attention and transformers](notes/11_transformers_notes.pdf)
 
 
 ## Videos
