@@ -12,7 +12,6 @@
 10. [Encoder-decoder models and attention](notes/10_encdec_attention_notes.pdf)
 11. [Self-attention and transformers](notes/11_transformers_notes.pdf)
 
-12. 1
 
 
 ## Videos
