@@ -1,3 +1,5 @@
+## Course material
+
 | # | Note | Videos |
 |---:|---|---|
 | 1 | [Introduction to natural language processing](notes/01_intro_notes.pdf) | [What is natural language processing?](https://youtu.be/ZxG1YFrYuOU&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (15 min) |
