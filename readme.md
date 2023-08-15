@@ -1,4 +1,4 @@
-## Material
+## Course material
 
 | # | Note | Videos |
 |---:|---|---|
