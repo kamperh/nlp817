@@ -2,7 +2,7 @@
 
 | # | Note | Videos |
 |---:|---|---|
-| 1 | [Introduction to natural language processing](notes/01_intro_notes.pdf) | [Introduction to natural language processing](https://youtu.be/ZxG1YFrYuOU&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (15 min) |
+| 1 | [Introduction to natural language processing](notes/01_intro_notes.pdf) | [What is natural language processing?](https://youtu.be/ZxG1YFrYuOU&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (15 min) |
 | 2 | [Text normalization, units and edit distance](notes/02_units_distance_notes.pdf) | [A first NLP example](https://youtu.be/k4Co_47zeO4&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (8 min)<br>[Text normalization and tokenization](https://youtu.be/Y2FBKCwww50&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (8 min)<br>[Words](https://youtu.be/o_v279Ip4GU&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (12 min)<br>[Morphology](https://youtu.be/zMMrn7BZefc&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (5 min)<br>[Stems and lemmas](https://youtu.be/DWsiL01hMwk&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (3 min)<br>[Byte-pair encoding (BPE)](https://youtu.be/20xtCxAAkFw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (9 min)<br>[Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (20 min) |
 | 3 | [Language modelling with N-grams](notes/03_lm_ngrams_notes.pdf) |  |
 | 4 | [Entropy and perplexity (advanced)](notes/04_entropy_perplexity_notes.pdf) |  |
