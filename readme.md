@@ -21,6 +21,7 @@
 [2. Text normalization, units and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
 
 - [A first NLP example](https://youtu.be/k4Co_47zeO4&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (8 min)
+- [Text normalization and tokenization](https://youtu.be/Y2FBKCwww50&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (8 min)
 - [Edit distance](https://youtu.be/C2cRO9BqlZw&list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d) (20 min)
 
 [10. Encoder-decoder models and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
