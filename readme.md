@@ -12,7 +12,7 @@
 | 8 | [Introduction to neural networks (recap)](notes/08_nn_notes.pdf) | [Playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) <br> [Video list](https://www.kamperh.com/data414/#introduction-to-neural-networks) |
 | 9 | [Recurrent neural networks](notes/09_rnn_notes.pdf) |  |
 | 10 | [Encoder-decoder models and attention](notes/10_encdec_attention_notes.pdf) | [A basic encoder-decoder model for machine translation](https://youtu.be/gHk2IWivt_8&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (13 min)<br>[Training and loss for encoder-decoder models](https://youtu.be/aBZUTuT1Izs&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (10 min)<br>[Encoder-decoder models in general](https://youtu.be/N8AzPeAORKM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (18 min)<br>[Greedy decoding](https://youtu.be/DW5C3eqAFQM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (5 min)<br>[Beam search](https://youtu.be/uG3xoYNo3HM&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (18 min)<br>[Basic attention](https://youtu.be/BSSoEtv5jvQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (22 min)<br>[Attention - More general](https://youtu.be/k-5QMalS8bQ&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (13 min)<br>[Evaluating machine translation with BLEU](https://youtu.be/evDKNiNs09o&list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV) (23 min) |
-| 11 | [Self-attention and transformers](notes/11_transformers_notes.pdf) |  |
+| 11 | [Self-attention and transformers](notes/11_transformers_notes.pdf) | [Intuition behind self-attention](https://youtu.be/Y9vUgnA7gxs&list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s) (12 min)<br>  |
 
 
 
