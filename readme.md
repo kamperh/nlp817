@@ -16,7 +16,6 @@
 | 12 | [Large language models](notes/12_llm_notes.pdf) | [Intro to large language models](https://youtu.be/zjkBMFhNj_g?si=dU7KNFP0_C_AQGuH) by Andrej Karpathy (1 h) <br> [Large language model training and inference](https://youtu.be/Y9YmVNLslvs?list=PLmZlBIcArwhOVLRdimL3lS9F_33fzh9jU) (14 min) <br> [The difference between GPT and ChatGPT](https://youtu.be/Lvhu0_y6K4E?list=PLmZlBIcArwhOVLRdimL3lS9F_33fzh9jU) (13 min) <br> [Reinforcement learning from human feedback](https://youtu.be/T3DSOSea4yQ?list=PLmZlBIcArwhOVLRdimL3lS9F_33fzh9jU) (15 min) |
 
 
-
 ## Acknowledgements
 
 With permission, I have used content from the NLP courses taught by
