@@ -1,4 +1,7 @@
-title: NLP817
-description: Introduction to natural language processing
+title: Introduction to natural language processing
+description: NLP817
 show_downloads: false
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+theme: minima
+github:
+  is_project_page: false
